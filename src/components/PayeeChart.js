@@ -37,7 +37,7 @@ function PayeeChart({ id, data }) {
 	return (
 		<>
 			<Grid.Column>
-				<div style={{ float: "left", padding: "15px 0 0 0", width: "40%"}}>
+				<div style={{ float: "left", padding: "15px 0 0 0", width: "40%" }}>
 					<PolarArea
 						data={chartData}
 						options={{
