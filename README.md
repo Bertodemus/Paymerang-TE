@@ -20,7 +20,7 @@
 
 ## **Description**
 
-Greetings and salutations! Thank you for taking the time to review my technical test submission. I cannot wait to get your feedback, suggestions, and constructive criticism! I believe that is one of the best ways to learn and improve.
+Greetings and salutations! Thank you for taking the time to review my technical test submission. I cannot wait to get your feedback, suggestions, and constructive criticism! I believe that is one of the best ways to learn and improve. Here is a link to the deployed site: [Technical Test](https://ecstatic-jepsen-96302a.netlify.app/)   
 
 For this test, I decided to use `create-react-app` as my starter toolchain. I created a `single page` site that takes the provided blob of JSON data and presents it to the user in a more consumable fashion. I wanted to give the UI a `dashboard` look and feel. All of the `payees` are presented in a `paginated` format. There are animated charts that offer a quick view and some `mouse over` data. The `payment information` element is an accordion that allows the user to toggle visibility of that information. The `payor` list shows the critical data prominently. If you want a sneak peek, you can jump to the [Screenshots](#Screenshots) section to see what I put together.
 
